@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sultan</h1>
 <h3 align="center">A passionate programmer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Python,C++,DS**
+- 🌱 I’m currently learning **Python,C++,DSA**
 
 - 📫 How to reach me **virus186374@gmail.com**
 
