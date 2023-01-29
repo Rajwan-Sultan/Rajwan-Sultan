@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajwan Sultan</h1>
 <h3 align="center">A passionate software developer / problem solver from Bangladesh</h3>
 
-<img align="right" alt="Coding Image" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2F2uyENRmiUt0AAAAC%2Fcoding.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24297652&tbnid=urce2NUsuMvIiM&vet=12ahUKEwjgrIu3nO38AhVJx6ACHb4TBq4QMygHegUIARClAg..i&docid=qS7uWQQRJaRnwM&w=498&h=373&q=coding%20gif&hl=en-GB&ved=2ahUKEwjgrIu3nO38AhVJx6ACHb4TBq4QMygHegUIARClAg"> 
+<img align="right" alt="Coding Image" src="https://media.tenor.com/2uyENRmiUt0AAAAS/coding.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajwan-sultan&label=Profile%20views&color=0e75b6&style=flat" alt="rajwan-sultan" /> </p>
 
