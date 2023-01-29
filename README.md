@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajwan Sultan</h1>
 <h3 align="center">A passionate software developer / problem solver from Bangladesh</h3>
 
-<img align="right" alt="Coding Image" src="https://media.tenor.com/2uyENRmiUt0AAAAS/coding.gif"> 
+<img align="right" alt="Coding Image" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAS/coding.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajwan-sultan&label=Profile%20views&color=0e75b6&style=flat" alt="rajwan-sultan" /> </p>
 
