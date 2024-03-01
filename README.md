@@ -2,15 +2,13 @@
 <h1 align="center">Hi 👋, I'm Rajwan Sultan</h1>
 <h3 align="center">A passionate data engineer from Bangladesh</h3>
 
-<img align="right" alt="Coding Image" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajwan-sultan&label=Profile%20views&color=0e75b6&style=flat" alt="rajwan-sultan" /> </p>
 
-- 🌱 I’m currently learning **Django,HTML,CSS,**
+- 🌱 I’m currently learning **Machine Learning,NLP,ANN**
 
 - 💬 Ask me about **Algorithms , C , C++ , Python, OOP**
 
-- 📫 How to reach me **kazirajwansultan41@gmail.com**
+- 📫 How to reach me **sultanrajwan@gmail.com**
 
 - ⚡ Fun fact **I will be funny if you like fun**
 
