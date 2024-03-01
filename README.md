@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning,NLP,ANN**
 
-- 💬 Ask me about **Algorithms , C , C++ , Python, OOP**
+- 💬 Ask me about **Algorithms , C , C++ , Python, SQL**
 
 - 📫 How to reach me **sultanrajwan@gmail.com**
 
