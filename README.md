@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Rajwan Sultan</h1>
-<h3 align="center">A passionate software developer / problem solver from Bangladesh</h3>
+<h3 align="center">A passionate data engineer from Bangladesh</h3>
 
 <img align="right" alt="Coding Image" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> 
 
