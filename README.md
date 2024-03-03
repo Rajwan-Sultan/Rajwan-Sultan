@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajwan-sultan&label=Profile%20views&color=0e75b6&style=flat" alt="rajwan-sultan" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning,NLP,ANN**
+- 🌱 I’m currently learning **Deep Learning,NLP,ANN**
 
 - 💬 Ask me about **Algorithms , C , C++ , Python, SQL**
 
