@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/rajwan sultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajwan sultan" height="30" width="40" /></a>
 <a href="https://fb.com/razwan sultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="razwan sultan" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/su1tn00b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="su1tn00b" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/krsultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="su1tn00b" height="30" width="40" /></a>
 <a href="https://discord.gg/Rajwan Sultan#9735" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rajwan Sultan#9735" height="30" width="40" /></a>
 </p>
 
